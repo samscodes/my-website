@@ -3,7 +3,6 @@ This is an awesome website
 
 This is about Pull with Rebase
 
+New conflit test on develop brach
 ## Respository Purpose
-This will be a change that conflit
-with whatever is on the remote ,
-this was edited locally
+
